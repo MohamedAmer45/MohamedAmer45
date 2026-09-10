@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Mohamed Amer - Software Quality Engineer" width="100%">
+</p>
+
 # Mohamed Amer
 
 ### Software Quality Engineer
