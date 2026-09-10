@@ -81,5 +81,8 @@ My main QA portfolio demonstrates the complete workflow from:
 
 ## Connect
 
-**LinkedIn:** [https://www.linkedin.com/in/mohamedamer45/]
-**QA Portfolio:** [github.com/MohamedAmer45/qa-commerce-qa-portfolio](https://github.com/MohamedAmer45/qa-commerce-qa-portfolio)
+**LinkedIn:** https://www.linkedin.com/in/mohamedamer45/
+
+**QA Portfolio:** github.com/MohamedAmer45/qa-commerce-qa-
+
+portfolio(https://github.com/MohamedAmer45/qa-commerce-qa-portfolio)
