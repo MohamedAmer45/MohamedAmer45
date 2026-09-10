@@ -83,6 +83,6 @@ My main QA portfolio demonstrates the complete workflow from:
 
 **LinkedIn:** https://www.linkedin.com/in/mohamedamer45/
 
-**QA Portfolio:** (https://github.com/MohamedAmer45/qa-commerce-qa-portfolio)
+**QA Portfolio:** https://github.com/MohamedAmer45/qa-commerce-qa-portfolio
 
-portfolio(https://github.com/MohamedAmer45/qa-commerce-qa-portfolio)
+**portfolio** https://github.com/MohamedAmer45/qa-commerce-qa-portfolio
